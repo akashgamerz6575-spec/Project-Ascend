@@ -15,3 +15,4 @@ To systematically prepare for elite-tier software engineering interviews by stru
 
 ## Catalog
 - **[Behavioral Framework (STAR)](file:///c:/Users/ManjuMJ/Documents/BEE/interview-preparation/behavioral-framework.md)**: Structuring responses for soft-skills evaluations.
+- **[C++ Fundamentals Interview Prep](file:///c:/Users/ManjuMJ/Documents/BEE/interview-preparation/cpp-fundamentals.md)**: Questions and answers covering copy semantics, reference binding, pointer dereferencing, and common stack frame traps.

@@ -19,3 +19,4 @@ To serve as an academic reference covering the four pillars of Computer Science 
 ## Catalog
 - **[Operating Systems Core](file:///c:/Users/ManjuMJ/Documents/BEE/notes/operating-systems.md)**: Virtual memory, scheduling, and kernels.
 - **[Database Management Systems Core](file:///c:/Users/ManjuMJ/Documents/BEE/notes/dbms.md)**: Transactions, query optimization, and indexing.
+- **[Memory, Pointers, and References Core](file:///c:/Users/ManjuMJ/Documents/BEE/notes/memory-pointers-references.md)**: Physical vs. virtual memory layout, sizing, pointer redirection, compiler reference optimizations, and segfaults.
