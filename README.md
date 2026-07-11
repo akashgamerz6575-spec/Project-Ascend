@@ -22,6 +22,7 @@ An interactive map to navigate the Project Ascend workspace. Every folder contai
 ```
 .
 ├── README.md                          # Root directory dashboard and entry point
+├── cpp/                               # C++ systems programming knowledge base
 ├── docs/                              # Project/architecture reference guides
 ├── journal/                           # Daily logs, weekly/monthly/quarterly reviews
 ├── dsa/                               # Data structures and algorithms progress tracker
@@ -63,7 +64,7 @@ An interactive map to navigate the Project Ascend workspace. Every folder contai
 The following dashboards represent a transparent self-assessment of technical capabilities. The progress levels reflect target engineering expectations for L3/L4 software engineer interviews.
 
 ### Core CS Fundamentals
-- **C++:** `[████░░░░░░] 40%` — Strong procedural grasp; expanding knowledge of memory management and pointers.
+- **C++:** `[█████▌░░░░] 55%` — Strong procedural grasp; establishing solid low-level foundations in variables, references, parameters execution, functions, and the call stack.
 - **Data Structures & Algorithms (DSA):** `[████░░░░░░] 40%` — Solid understanding of linear structures, sorting, and binary trees.
 - **Operating Systems (OS):** `[███░░░░░░░] 30%` — Understanding processes, threads, virtual memory, and system calls.
 - **Database Management Systems (DBMS):** `[████░░░░░░] 40%` — Relational algebra, SQL schema design, ACID properties.
@@ -88,6 +89,81 @@ The following dashboards represent a transparent self-assessment of technical ca
 - **Project Delivery:** `[████░░░░░░] 40%` — Two active, working project prototypes deployed.
 - **GitHub / Git Workflow:** `[██████░░░░] 60%` — Disciplined commits, feature branching, and conflict resolution.
 - **Communication & Writing:** `[███████░░░] 70%` — Presenting architectures clearly in written markdown documents.
+
+---
+
+## Weekly Analytics
+
+| Metric | Current Week Value | Status / Notes |
+|:---|:---|:---|
+| **Concepts Learned** | 11 | Memory layout, variables, assignment, references, functions, parameters execution, pass-by-value, pass-by-reference, call stack frames, LIFO, stack overflow. |
+| **Exercises Solved** | 8 | Tracing value copying, reference aliasing, pointer addresses, local scope compiler errors, duplicate variable namespaces, pass-by-value copies, pass-by-reference aliases, nested returns, call stack order, and infinite recursion stack overflow. |
+| **Hours Studied** | 4.5 hrs | 2.5h (Day 1: Variables & References) + 2.0h (Day 2: Functions & Call Stack) |
+| **Current Streak** | 2 Days | Continuous daily systems programming sprint. |
+| **Git Commits** | 5 | Setting up repo structure, adding memory diagrams, creating value copying tests, adding Day 1 and Day 2 session records. |
+| **Learning Consistency** | 100% | Full execution of learning checkpoints on schedule. |
+
+### Learning Consistency Grid
+
+<svg width="220" height="40" style="font-family: sans-serif; font-size: 10px;">
+  <!-- Day Labels -->
+  <text x="0" y="10" fill="#777">S</text>
+  <text x="20" y="10" fill="#777">M</text>
+  <text x="40" y="10" fill="#777">T</text>
+  <text x="60" y="10" fill="#777">W</text>
+  <text x="80" y="10" fill="#777">T</text>
+  <text x="100" y="10" fill="#777">F</text>
+  <text x="120" y="10" fill="#777">S</text>
+  
+  <!-- Contribution Squares -->
+  <rect x="0" y="16" width="14" height="14" fill="#ebedf0" rx="2" ry="2" />
+  <rect x="20" y="16" width="14" height="14" fill="#ebedf0" rx="2" ry="2" />
+  <rect x="40" y="16" width="14" height="14" fill="#ebedf0" rx="2" ry="2" />
+  <rect x="60" y="16" width="14" height="14" fill="#ebedf0" rx="2" ry="2" />
+  <rect x="80" y="16" width="14" height="14" fill="#ebedf0" rx="2" ry="2" />
+  <rect x="100" y="16" width="14" height="14" fill="#0e4429" rx="2" ry="2"><title>Day 1: 10-07-2026</title></rect>
+  <rect x="120" y="16" width="14" height="14" fill="#0e4429" rx="2" ry="2"><title>Day 2: 11-07-2026</title></rect>
+</svg>
+
+---
+
+## Active Learning Sprint (Sprint 1)
+
+*   **Current Semester:** Year 1, Semester 2
+*   **Current Learning Sprint:** Sprint 1 — C++ Systems & Low-Level Memory Foundations
+*   **Current Focus:** Rebuilding core C++ functions, call stack mechanics, and parameters execution.
+*   **Weekly Goals:** Rebuild C++ functions, call stack tracking, parameters passing, and start recursion.
+*   **Recent Commits:**
+    *   `docs(cpp): document functions, call stack and parameter passing fundamentals`
+    *   `docs(journal): add Day 2 learning session reflection`
+    *   `docs(cpp): explain variables and references using memory diagrams`
+    *   `feat(cpp): add memory tracing code examples`
+*   **Topics Completed:**
+    *   Variables & Memory Allocation
+    *   Value Copying vs. Assignment
+    *   Reference Binding and Aliasing
+    *   Address-of Operator Syntax (`&`)
+    *   Functions & Function Scope
+    *   Pass by Value & Pass by Reference
+    *   Call Stack Mechanics
+*   **Topics In Progress:**
+    *   Recursion (Introduction)
+*   **Upcoming Topics:**
+    *   Pointers & References (Deep Dive)
+    *   Memory Tracing
+
+### Sprint 1 Checklist
+- ✅ Variables
+- ✅ Memory
+- ✅ Assignment
+- ✅ References
+- ✅ Functions
+- ✅ Function Scope
+- ✅ Pass by Value
+- ✅ Pass by Reference
+- ✅ Call Stack
+- 🟡 Recursion (Introduction)
+- ⬜ Pointers (Deep Dive)
 
 ---
 
