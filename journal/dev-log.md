@@ -15,3 +15,4 @@ Daily coding activity log.
 [2026-08-16 21:27] Added AI/ML engineering notes
 [2026-08-16 13:26] Updated C++ concepts: smart pointers
 [2026-08-16 14:41] Open source: contribution tracking
+[2026-08-16 18:14] Refactored DSA solution: sliding window optimized
