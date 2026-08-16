@@ -18,3 +18,4 @@ Daily coding activity log.
 [2026-08-16 18:14] Refactored DSA solution: sliding window optimized
 [2026-08-16 17:29] C++ practice: templates and generics
 [2026-08-16 10:00] Refactored DSA solution: sliding window optimized
+[2026-08-16 09:07] Notes: SOLID principles with examples
