@@ -10,3 +10,4 @@ Daily coding activity log.
 [2026-08-16 18:34] DSA practice: graph traversal BFS/DFS
 [2026-08-16 21:52] Interview prep: behavioral questions
 [2026-08-16 20:39] Updated C++ concepts: smart pointers
+[2026-08-16 19:16] C++ practice: templates and generics
