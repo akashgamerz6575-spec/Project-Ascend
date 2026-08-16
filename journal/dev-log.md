@@ -20,3 +20,4 @@ Daily coding activity log.
 [2026-08-16 10:00] Refactored DSA solution: sliding window optimized
 [2026-08-16 09:07] Notes: SOLID principles with examples
 [2026-08-16 13:31] Notes: SOLID principles with examples
+[2026-08-16 13:34] System design: database sharding
