@@ -16,3 +16,4 @@ Daily coding activity log.
 [2026-08-16 13:26] Updated C++ concepts: smart pointers
 [2026-08-16 14:41] Open source: contribution tracking
 [2026-08-16 18:14] Refactored DSA solution: sliding window optimized
+[2026-08-16 17:29] C++ practice: templates and generics
