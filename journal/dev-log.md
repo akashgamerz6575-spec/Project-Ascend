@@ -12,3 +12,4 @@ Daily coding activity log.
 [2026-08-16 20:39] Updated C++ concepts: smart pointers
 [2026-08-16 19:16] C++ practice: templates and generics
 [2026-08-16 22:09] Interview prep: behavioral questions
+[2026-08-16 21:27] Added AI/ML engineering notes
