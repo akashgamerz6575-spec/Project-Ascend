@@ -21,3 +21,4 @@ Daily coding activity log.
 [2026-08-16 09:07] Notes: SOLID principles with examples
 [2026-08-16 13:31] Notes: SOLID principles with examples
 [2026-08-16 13:34] System design: database sharding
+[2026-08-16 21:48] DSA practice: graph traversal BFS/DFS
