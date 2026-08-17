@@ -36,3 +36,4 @@ Daily coding activity log.
 [2026-08-17 22:04] Refactored DSA solution: sliding window optimized
 [2026-08-17 19:02] Improved template: project README
 [2026-08-17 08:51] Docs: updated project architecture
+[2026-08-17 08:25] Added TIL: Git rebase strategies
