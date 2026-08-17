@@ -23,3 +23,4 @@ Daily coding activity log.
 [2026-08-16 13:34] System design: database sharding
 [2026-08-16 21:48] DSA practice: graph traversal BFS/DFS
 [2026-08-17 22:38] Engineering principles: clean code
+[2026-08-17 22:45] Added AI/ML engineering notes
