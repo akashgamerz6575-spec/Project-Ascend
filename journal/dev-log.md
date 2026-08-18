@@ -47,3 +47,4 @@ Daily coding activity log.
 [2026-08-18 09:40] Notes: SOLID principles with examples
 [2026-08-18 14:03] Added TIL: Git rebase strategies
 [2026-08-18 09:35] Added system design notes: CAP theorem
+[2026-08-18 13:32] Reviewed LeetCode problem: binary search
