@@ -53,3 +53,4 @@ Daily coding activity log.
 [2026-08-18 15:34] Docs: updated project architecture
 [2026-08-18 12:01] Reviewed LeetCode problem: binary search
 [2026-08-18 19:19] Added AI/ML engineering notes
+[2026-08-18 10:54] Updated C++ concepts: smart pointers
