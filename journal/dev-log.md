@@ -39,3 +39,4 @@ Daily coding activity log.
 [2026-08-17 08:25] Added TIL: Git rebase strategies
 [2026-08-17 13:33] Notes: SOLID principles with examples
 [2026-08-18 12:19] Improved template: project README
+[2026-08-18 15:45] System design: database sharding
