@@ -52,3 +52,4 @@ Daily coding activity log.
 [2026-08-18 21:51] Added system design notes: CAP theorem
 [2026-08-18 15:34] Docs: updated project architecture
 [2026-08-18 12:01] Reviewed LeetCode problem: binary search
+[2026-08-18 19:19] Added AI/ML engineering notes
