@@ -74,3 +74,4 @@ Daily coding activity log.
 [2026-08-19 22:24] Added system design notes: CAP theorem
 [2026-08-19 09:02] Added system design notes: CAP theorem
 [2026-08-19 16:42] Reviewed LeetCode problem: binary search
+[2026-08-19 08:56] Added TIL: Git rebase strategies
