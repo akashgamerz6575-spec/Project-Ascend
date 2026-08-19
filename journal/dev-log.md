@@ -68,3 +68,4 @@ Daily coding activity log.
 [2026-08-19 11:10] Docs: updated project architecture
 [2026-08-19 17:03] Improved template: project README
 [2026-08-19 19:37] Engineering principles: clean code
+[2026-08-19 16:03] Resources: curated learning links
