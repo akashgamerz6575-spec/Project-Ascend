@@ -56,3 +56,4 @@ Daily coding activity log.
 [2026-08-18 10:54] Updated C++ concepts: smart pointers
 [2026-08-18 22:19] Interview prep: behavioral questions
 [2026-08-18 14:45] Refactored DSA solution: sliding window optimized
+[2026-08-19 20:02] Interview prep: behavioral questions
