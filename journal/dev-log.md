@@ -65,3 +65,4 @@ Daily coding activity log.
 [2026-08-19 08:04] C++ practice: templates and generics
 [2026-08-19 22:20] Resources: curated learning links
 [2026-08-19 11:23] Refactored DSA solution: sliding window optimized
+[2026-08-19 11:10] Docs: updated project architecture
