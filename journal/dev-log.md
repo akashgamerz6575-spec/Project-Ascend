@@ -88,3 +88,4 @@ Daily coding activity log.
 [2026-08-20 13:32] DSA practice: graph traversal BFS/DFS
 [2026-08-20 12:36] C++ practice: templates and generics
 [2026-08-20 21:21] Reviewed LeetCode problem: binary search
+[2026-08-20 14:34] Docs: updated project architecture
