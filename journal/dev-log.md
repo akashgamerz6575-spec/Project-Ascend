@@ -86,3 +86,4 @@ Daily coding activity log.
 [2026-08-20 17:41] Updated C++ concepts: smart pointers
 [2026-08-20 18:49] Career tracker: updated skill matrix
 [2026-08-20 13:32] DSA practice: graph traversal BFS/DFS
+[2026-08-20 12:36] C++ practice: templates and generics
