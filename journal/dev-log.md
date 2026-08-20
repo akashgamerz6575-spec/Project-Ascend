@@ -76,3 +76,4 @@ Daily coding activity log.
 [2026-08-19 16:42] Reviewed LeetCode problem: binary search
 [2026-08-19 08:56] Added TIL: Git rebase strategies
 [2026-08-19 14:35] Refactored DSA solution: sliding window optimized
+[2026-08-20 20:52] Interview prep: behavioral questions
