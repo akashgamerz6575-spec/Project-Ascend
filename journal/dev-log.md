@@ -90,3 +90,4 @@ Daily coding activity log.
 [2026-08-20 21:21] Reviewed LeetCode problem: binary search
 [2026-08-20 14:34] Docs: updated project architecture
 [2026-08-20 17:54] Resources: curated learning links
+[2026-08-20 14:10] Interview prep: behavioral questions
