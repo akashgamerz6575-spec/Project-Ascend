@@ -106,3 +106,4 @@ Daily coding activity log.
 [2026-08-21 22:51] Updated C++ concepts: smart pointers
 [2026-08-21 11:38] Reviewed LeetCode problem: binary search
 [2026-08-21 15:32] Reviewed LeetCode problem: binary search
+[2026-08-21 11:25] C++ practice: templates and generics
