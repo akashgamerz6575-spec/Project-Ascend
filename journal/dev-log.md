@@ -99,3 +99,4 @@ Daily coding activity log.
 [2026-08-21 18:18] Updated roadmap: backend track Q4
 [2026-08-21 12:25] Resources: curated learning links
 [2026-08-21 14:20] Refactored DSA solution: sliding window optimized
+[2026-08-21 22:45] DSA practice: graph traversal BFS/DFS
