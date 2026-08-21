@@ -92,3 +92,4 @@ Daily coding activity log.
 [2026-08-20 17:54] Resources: curated learning links
 [2026-08-20 14:10] Interview prep: behavioral questions
 [2026-08-21 09:44] Lessons learned: debugging async code
+[2026-08-21 09:21] Interview prep: behavioral questions
