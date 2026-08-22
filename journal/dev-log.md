@@ -124,3 +124,4 @@ Daily coding activity log.
 [2026-08-22 19:05] Open source: contribution tracking
 [2026-08-22 14:06] Lessons learned: debugging async code
 [2026-08-22 16:55] Added AI/ML engineering notes
+[2026-08-22 08:04] Added system design notes: CAP theorem
