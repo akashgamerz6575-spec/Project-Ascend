@@ -122,3 +122,4 @@ Daily coding activity log.
 [2026-08-22 20:23] Docs: updated project architecture
 [2026-08-22 14:37] Updated roadmap: backend track Q4
 [2026-08-22 19:05] Open source: contribution tracking
+[2026-08-22 14:06] Lessons learned: debugging async code
