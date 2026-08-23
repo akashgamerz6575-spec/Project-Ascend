@@ -141,3 +141,4 @@ Daily coding activity log.
 [2026-08-23 21:33] Added system design notes: CAP theorem
 [2026-08-23 20:05] Lessons learned: debugging async code
 [2026-08-23 18:46] Added TIL: Git rebase strategies
+[2026-08-23 14:13] Reviewed LeetCode problem: binary search
