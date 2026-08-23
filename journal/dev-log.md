@@ -143,3 +143,4 @@ Daily coding activity log.
 [2026-08-23 18:46] Added TIL: Git rebase strategies
 [2026-08-23 14:13] Reviewed LeetCode problem: binary search
 [2026-08-23 21:07] Reviewed LeetCode problem: binary search
+[2026-08-23 20:20] Notes: SOLID principles with examples
