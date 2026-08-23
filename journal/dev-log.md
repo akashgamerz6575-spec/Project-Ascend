@@ -134,3 +134,4 @@ Daily coding activity log.
 [2026-08-23 16:03] Updated roadmap: backend track Q4
 [2026-08-23 20:56] Improved template: project README
 [2026-08-23 15:01] Resources: curated learning links
+[2026-08-23 18:55] Added system design notes: CAP theorem
