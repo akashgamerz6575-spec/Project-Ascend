@@ -173,3 +173,4 @@ Daily coding activity log.
 [2026-08-25 16:20] Reviewed LeetCode problem: binary search
 [2026-08-25 08:00] Added system design notes: CAP theorem
 [2026-08-25 20:23] Resources: curated learning links
+[2026-08-25 21:38] Added system design notes: CAP theorem
