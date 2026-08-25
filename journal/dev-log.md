@@ -169,3 +169,4 @@ Daily coding activity log.
 [2026-08-25 14:44] Updated roadmap: backend track Q4
 [2026-08-25 09:06] C++ practice: templates and generics
 [2026-08-25 20:03] Improved template: project README
+[2026-08-25 15:29] Added system design notes: CAP theorem
