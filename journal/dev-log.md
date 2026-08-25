@@ -178,3 +178,4 @@ Daily coding activity log.
 [2026-08-25 19:19] Updated C++ concepts: smart pointers
 [2026-08-25 12:51] Improved template: project README
 [2026-08-25 09:47] Open source: contribution tracking
+[2026-08-25 10:06] Added TIL: Git rebase strategies
