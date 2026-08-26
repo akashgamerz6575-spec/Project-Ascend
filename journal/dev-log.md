@@ -191,3 +191,4 @@ Daily coding activity log.
 [2026-08-26 15:21] Open source: contribution tracking
 [2026-08-26 22:19] Added system design notes: CAP theorem
 [2026-08-26 12:41] Docs: updated project architecture
+[2026-08-26 17:08] Resources: curated learning links
