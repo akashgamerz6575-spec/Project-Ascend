@@ -192,3 +192,4 @@ Daily coding activity log.
 [2026-08-26 22:19] Added system design notes: CAP theorem
 [2026-08-26 12:41] Docs: updated project architecture
 [2026-08-26 17:08] Resources: curated learning links
+[2026-08-26 13:55] C++ practice: templates and generics
