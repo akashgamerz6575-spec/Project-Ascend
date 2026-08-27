@@ -203,3 +203,4 @@ Daily coding activity log.
 [2026-08-27 13:17] Refactored DSA solution: sliding window optimized
 [2026-08-27 16:24] Resources: curated learning links
 [2026-08-27 10:54] Added AI/ML engineering notes
+[2026-08-27 19:28] Added system design notes: CAP theorem
