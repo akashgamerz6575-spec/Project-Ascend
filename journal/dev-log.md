@@ -205,3 +205,4 @@ Daily coding activity log.
 [2026-08-27 10:54] Added AI/ML engineering notes
 [2026-08-27 19:28] Added system design notes: CAP theorem
 [2026-08-27 09:37] Added system design notes: CAP theorem
+[2026-08-27 18:18] Resources: curated learning links
