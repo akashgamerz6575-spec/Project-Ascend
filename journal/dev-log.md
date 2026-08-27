@@ -208,3 +208,4 @@ Daily coding activity log.
 [2026-08-27 18:18] Resources: curated learning links
 [2026-08-27 21:58] Added TIL: Git rebase strategies
 [2026-08-27 17:08] Open source: contribution tracking
+[2026-08-27 16:39] Interview prep: behavioral questions
