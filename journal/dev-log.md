@@ -226,3 +226,4 @@ Daily coding activity log.
 [2026-08-28 11:08] Updated C++ concepts: smart pointers
 [2026-08-28 10:41] Resources: curated learning links
 [2026-08-28 20:34] DSA practice: graph traversal BFS/DFS
+[2026-08-28 11:01] System design: database sharding
