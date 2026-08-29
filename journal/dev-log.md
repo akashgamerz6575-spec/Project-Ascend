@@ -244,3 +244,4 @@ Daily coding activity log.
 [2026-08-29 19:17] Career tracker: updated skill matrix
 [2026-08-29 14:40] Lessons learned: debugging async code
 [2026-08-29 18:39] C++ practice: templates and generics
+[2026-08-29 14:38] Updated C++ concepts: smart pointers
