@@ -237,3 +237,4 @@ Daily coding activity log.
 [2026-08-29 13:52] DSA practice: graph traversal BFS/DFS
 [2026-08-29 20:20] C++ practice: templates and generics
 [2026-08-29 10:29] Open source: contribution tracking
+[2026-08-29 17:48] Lessons learned: debugging async code
