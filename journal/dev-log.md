@@ -248,3 +248,4 @@ Daily coding activity log.
 [2026-08-29 20:42] Journal: daily coding goals met
 [2026-08-29 13:13] Interview prep: behavioral questions
 [2026-08-30 12:53] Added AI/ML engineering notes
+[2026-08-30 13:36] C++ practice: templates and generics
