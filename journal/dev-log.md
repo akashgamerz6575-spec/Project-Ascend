@@ -249,3 +249,4 @@ Daily coding activity log.
 [2026-08-29 13:13] Interview prep: behavioral questions
 [2026-08-30 12:53] Added AI/ML engineering notes
 [2026-08-30 13:36] C++ practice: templates and generics
+[2026-08-30 20:36] Notes: SOLID principles with examples
