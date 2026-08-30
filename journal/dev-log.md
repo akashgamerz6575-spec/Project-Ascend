@@ -250,3 +250,4 @@ Daily coding activity log.
 [2026-08-30 12:53] Added AI/ML engineering notes
 [2026-08-30 13:36] C++ practice: templates and generics
 [2026-08-30 20:36] Notes: SOLID principles with examples
+[2026-08-30 13:36] Refactored DSA solution: sliding window optimized
