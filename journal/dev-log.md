@@ -274,3 +274,4 @@ Daily coding activity log.
 [2026-08-31 14:20] Engineering principles: clean code
 [2026-08-31 17:53] Docs: updated project architecture
 [2026-08-31 21:08] Docs: updated project architecture
+[2026-08-31 16:52] Added system design notes: CAP theorem
