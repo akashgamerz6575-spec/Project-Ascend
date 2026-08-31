@@ -269,3 +269,4 @@ Daily coding activity log.
 [2026-08-31 08:42] C++ practice: templates and generics
 [2026-08-31 08:00] Interview prep: behavioral questions
 [2026-08-31 18:28] Added AI/ML engineering notes
+[2026-08-31 19:46] Improved template: project README
