@@ -281,3 +281,4 @@ Daily coding activity log.
 [2026-08-31 12:38] Journal: daily coding goals met
 [2026-08-31 13:01] Added TIL: Git rebase strategies
 [2026-09-01 18:05] Added TIL: Git rebase strategies
+[2026-09-01 20:15] System design: database sharding
