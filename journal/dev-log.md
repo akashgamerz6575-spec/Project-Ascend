@@ -292,3 +292,4 @@ Daily coding activity log.
 [2026-09-01 22:09] Engineering principles: clean code
 [2026-09-01 13:01] Engineering principles: clean code
 [2026-09-01 22:18] Updated roadmap: backend track Q4
+[2026-09-01 15:31] Added system design notes: CAP theorem
