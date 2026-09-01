@@ -294,3 +294,4 @@ Daily coding activity log.
 [2026-09-01 22:18] Updated roadmap: backend track Q4
 [2026-09-01 15:31] Added system design notes: CAP theorem
 [2026-09-01 21:22] Lessons learned: debugging async code
+[2026-09-01 09:11] C++ practice: templates and generics
