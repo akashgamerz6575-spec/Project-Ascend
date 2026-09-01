@@ -282,3 +282,4 @@ Daily coding activity log.
 [2026-08-31 13:01] Added TIL: Git rebase strategies
 [2026-09-01 18:05] Added TIL: Git rebase strategies
 [2026-09-01 20:15] System design: database sharding
+[2026-09-01 22:05] Interview prep: behavioral questions
