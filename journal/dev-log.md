@@ -311,3 +311,4 @@ Daily coding activity log.
 [2026-09-02 16:49] Added AI/ML engineering notes
 [2026-09-02 15:58] Resources: curated learning links
 [2026-09-02 12:18] Improved template: project README
+[2026-09-02 16:07] Updated C++ concepts: smart pointers
