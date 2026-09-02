@@ -315,3 +315,4 @@ Daily coding activity log.
 [2026-09-02 14:31] Engineering principles: clean code
 [2026-09-02 12:57] Improved template: project README
 [2026-09-02 08:55] Added AI/ML engineering notes
+[2026-09-02 09:28] Added system design notes: CAP theorem
