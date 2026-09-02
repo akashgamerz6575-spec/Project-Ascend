@@ -298,3 +298,4 @@ Daily coding activity log.
 [2026-09-01 18:57] Updated C++ concepts: smart pointers
 [2026-09-01 22:19] Improved template: project README
 [2026-09-01 22:26] Resources: curated learning links
+[2026-09-02 10:16] DSA practice: graph traversal BFS/DFS
