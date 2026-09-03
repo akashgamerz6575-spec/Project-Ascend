@@ -317,3 +317,4 @@ Daily coding activity log.
 [2026-09-02 08:55] Added AI/ML engineering notes
 [2026-09-02 09:28] Added system design notes: CAP theorem
 [2026-09-03 15:26] DSA practice: graph traversal BFS/DFS
+[2026-09-03 20:15] Improved template: project README
