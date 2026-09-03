@@ -322,3 +322,4 @@ Daily coding activity log.
 [2026-09-03 08:10] Reviewed LeetCode problem: binary search
 [2026-09-03 20:30] Updated roadmap: backend track Q4
 [2026-09-03 17:23] C++ practice: templates and generics
+[2026-09-03 16:51] Lessons learned: debugging async code
