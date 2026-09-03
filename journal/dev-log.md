@@ -321,3 +321,4 @@ Daily coding activity log.
 [2026-09-03 19:55] Engineering principles: clean code
 [2026-09-03 08:10] Reviewed LeetCode problem: binary search
 [2026-09-03 20:30] Updated roadmap: backend track Q4
+[2026-09-03 17:23] C++ practice: templates and generics
