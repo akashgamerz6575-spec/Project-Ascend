@@ -332,3 +332,4 @@ Daily coding activity log.
 [2026-09-03 09:35] Improved template: project README
 [2026-09-03 22:12] Interview prep: behavioral questions
 [2026-09-03 18:12] Improved template: project README
+[2026-09-04 13:12] Resources: curated learning links
