@@ -364,3 +364,4 @@ Daily coding activity log.
 [2026-09-05 22:05] Added AI/ML engineering notes
 [2026-09-05 20:28] Reviewed LeetCode problem: binary search
 [2026-09-05 12:53] Updated roadmap: backend track Q4
+[2026-09-05 12:04] Added TIL: Git rebase strategies
