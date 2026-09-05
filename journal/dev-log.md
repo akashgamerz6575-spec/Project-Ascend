@@ -360,3 +360,4 @@ Daily coding activity log.
 [2026-09-05 15:49] Updated C++ concepts: smart pointers
 [2026-09-05 20:13] Refactored DSA solution: sliding window optimized
 [2026-09-05 09:00] Resources: curated learning links
+[2026-09-05 18:18] Reviewed LeetCode problem: binary search
