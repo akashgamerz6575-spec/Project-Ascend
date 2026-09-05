@@ -348,3 +348,4 @@ Daily coding activity log.
 [2026-09-04 16:20] Refactored DSA solution: sliding window optimized
 [2026-09-04 21:53] Engineering principles: clean code
 [2026-09-04 17:31] Notes: SOLID principles with examples
+[2026-09-05 09:31] Resources: curated learning links
