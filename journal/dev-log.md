@@ -367,3 +367,4 @@ Daily coding activity log.
 [2026-09-05 12:04] Added TIL: Git rebase strategies
 [2026-09-05 17:44] Resources: curated learning links
 [2026-09-06 11:56] Updated C++ concepts: smart pointers
+[2026-09-06 08:44] Engineering principles: clean code
