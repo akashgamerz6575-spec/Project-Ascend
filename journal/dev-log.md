@@ -370,3 +370,4 @@ Daily coding activity log.
 [2026-09-06 08:44] Engineering principles: clean code
 [2026-09-06 20:13] Refactored DSA solution: sliding window optimized
 [2026-09-06 13:04] C++ practice: templates and generics
+[2026-09-06 10:58] Updated C++ concepts: smart pointers
