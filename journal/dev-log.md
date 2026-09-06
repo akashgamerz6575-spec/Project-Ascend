@@ -372,3 +372,4 @@ Daily coding activity log.
 [2026-09-06 13:04] C++ practice: templates and generics
 [2026-09-06 10:58] Updated C++ concepts: smart pointers
 [2026-09-06 10:32] Interview prep: behavioral questions
+[2026-09-06 10:02] System design: database sharding
