@@ -385,3 +385,4 @@ Daily coding activity log.
 [2026-09-06 16:45] Updated roadmap: backend track Q4
 [2026-09-06 14:14] Updated C++ concepts: smart pointers
 [2026-09-06 14:56] Journal: daily coding goals met
+[2026-09-06 11:37] C++ practice: templates and generics
