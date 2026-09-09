@@ -420,3 +420,4 @@ Daily coding activity log.
 [2026-09-09 21:44] Open source: contribution tracking
 [2026-09-09 22:42] Added system design notes: CAP theorem
 [2026-09-09 08:53] Updated roadmap: backend track Q4
+[2026-09-09 22:42] C++ practice: templates and generics
