@@ -441,3 +441,4 @@ Daily coding activity log.
 [2026-09-10 22:25] Open source: contribution tracking
 [2026-09-10 09:42] Resources: curated learning links
 [2026-09-10 18:43] Notes: SOLID principles with examples
+[2026-09-10 21:11] Updated C++ concepts: smart pointers
