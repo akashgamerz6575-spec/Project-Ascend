@@ -439,3 +439,4 @@ Daily coding activity log.
 [2026-09-10 12:10] Docs: updated project architecture
 [2026-09-10 20:01] C++ practice: templates and generics
 [2026-09-10 22:25] Open source: contribution tracking
+[2026-09-10 09:42] Resources: curated learning links
