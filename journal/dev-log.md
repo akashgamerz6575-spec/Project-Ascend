@@ -471,3 +471,4 @@ Daily coding activity log.
 [2026-09-12 20:42] Engineering principles: clean code
 [2026-09-12 09:50] Reviewed LeetCode problem: binary search
 [2026-09-12 19:39] Lessons learned: debugging async code
+[2026-09-12 19:00] Added AI/ML engineering notes
