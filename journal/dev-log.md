@@ -499,3 +499,4 @@ Daily coding activity log.
 [2026-09-13 08:13] Added TIL: Git rebase strategies
 [2026-09-13 13:29] Notes: SOLID principles with examples
 [2026-09-13 21:12] Open source: contribution tracking
+[2026-09-14 19:58] Updated C++ concepts: smart pointers
