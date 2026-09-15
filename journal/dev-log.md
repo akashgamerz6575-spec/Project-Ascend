@@ -524,3 +524,4 @@ Daily coding activity log.
 [2026-09-15 22:08] Added TIL: Git rebase strategies
 [2026-09-15 10:29] Added system design notes: CAP theorem
 [2026-09-15 18:57] Resources: curated learning links
+[2026-09-15 10:09] Added AI/ML engineering notes
