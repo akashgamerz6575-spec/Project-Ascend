@@ -522,3 +522,4 @@ Daily coding activity log.
 [2026-09-15 20:47] Reviewed LeetCode problem: binary search
 [2026-09-15 11:40] Engineering principles: clean code
 [2026-09-15 22:08] Added TIL: Git rebase strategies
+[2026-09-15 10:29] Added system design notes: CAP theorem
