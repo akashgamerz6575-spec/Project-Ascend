@@ -517,3 +517,4 @@ Daily coding activity log.
 [2026-09-14 10:08] Improved template: project README
 [2026-09-14 21:42] Lessons learned: debugging async code
 [2026-09-15 19:26] Lessons learned: debugging async code
+[2026-09-15 22:30] Docs: updated project architecture
